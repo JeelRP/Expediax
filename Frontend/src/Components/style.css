@@ -1,0 +1,17 @@
+/* header.js line 206 */
+.date {
+    position: absolute;
+    margin-top: 395px;
+    z-index: 2;
+}
+
+/* header.js line 88 */
+.list.Mode {
+    margin-bottom: -50px;
+}
+
+/* header.js line 88 */
+.NoList.Mode {
+    margin-bottom: 40px;
+    
+}
