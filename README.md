@@ -1,2 +1,2 @@
-# Expediax
+# Inntrip
 Hotel Booking Website 
